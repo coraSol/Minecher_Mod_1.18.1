@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "minecher",
+  "version": "${version}",
+
+  "name": "Minecher Mod",
+  "description": "A minecraft mod based on the Witcher franchise",
+  "authors": [
+    "Corasol"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MMPL",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.corasol.minecher.Minecher"
+    ]
+  },
+  "mixins": [
+    "minecher.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
