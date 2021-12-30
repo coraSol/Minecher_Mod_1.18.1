@@ -8,9 +8,9 @@ import net.minecraft.util.registry.Registry;
 
 public class ModItems {
 
-    public static final Item SILVER_INGOT = registerItem("silver_ingot", new Item(new FabricItemSettings().group(ModItemGroup.MINECHER)));
-    public static final Item SILVER_NUGGET = registerItem("silver_nugget", new Item(new FabricItemSettings().group(ModItemGroup.MINECHER)));
-    public static final Item HANDLE = registerItem("handle", new Item(new FabricItemSettings().group(ModItemGroup.MINECHER)));
+    public static final Item SILVER_INGOT = registerItem("silver_ingot", new Item(new FabricItemSettings().group(ModItemGroups.MINECHER)));
+    public static final Item SILVER_NUGGET = registerItem("silver_nugget", new Item(new FabricItemSettings().group(ModItemGroups.MINECHER)));
+    public static final Item HANDLE = registerItem("handle", new Item(new FabricItemSettings().group(ModItemGroups.MINECHER)));
 
     private static Item registerItem(String name, Item item)
     {
