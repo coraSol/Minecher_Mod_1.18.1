@@ -2,7 +2,12 @@
   "item.minecher.silver_ingot": "Silver Ingot",
   "item.minecher.silver_nugget": "Silver Nugget",
   "item.minecher.handle": "Handle",
+  "item.minecher.silver_wolf_medallion": "Silver Wolf Medallion",
+
   "block.minecher.deepslate_silver_ore": "Deepslate Silver Ore",
   "block.minecher.block_of_silver": "Block Of Silver",
-  "itemGroup.minecher.minecher": "Minecher Mod"
+
+  "itemGroup.minecher.minecher": "Minecher Mod",
+
+  "item.minecher.silver_wolf_medallion.no_monsters": "No monsters nearby"
 }
