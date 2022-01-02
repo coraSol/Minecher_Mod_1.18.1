@@ -1,0 +1,6 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "texture": "minecher:block/block_of_silver"
+  }
+}

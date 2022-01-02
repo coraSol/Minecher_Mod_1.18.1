@@ -1,6 +1,6 @@
 {
   "type": "minecraft:blasting",
-  "ingridient": {
+  "ingredient": {
     "item": "minecher:deepslate_silver_ore"
   },
   "result": "minecher:silver_ingot",

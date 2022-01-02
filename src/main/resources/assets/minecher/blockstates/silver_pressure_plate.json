@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "minecher:block/silver_pressure_plate" },
+    "powered=true": { "model": "minecher:block/silver_pressure_plate_down" }
+  }
+}

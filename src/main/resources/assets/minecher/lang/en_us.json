@@ -3,11 +3,19 @@
   "item.minecher.silver_nugget": "Silver Nugget",
   "item.minecher.handle": "Handle",
   "item.minecher.silver_wolf_medallion": "Silver Wolf Medallion",
+  "item.minecher.silver_sword": "Silver Sword",
 
   "block.minecher.deepslate_silver_ore": "Deepslate Silver Ore",
   "block.minecher.block_of_silver": "Block Of Silver",
+  "block.minecher.silver_slab": "Silver Slab",
+  "block.minecher.silver_stairs": "Silver Stairs",
+  "block.minecher.silver_button": "Silver Button",
+  "block.minecher.silver_pressure_plate": "Silver Pressure Plate",
 
   "itemGroup.minecher.minecher": "Minecher Mod",
 
-  "item.minecher.silver_wolf_medallion.no_monsters": "No monsters nearby"
+  "item.minecher.silver_wolf_medallion.no_monsters": "No monsters nearby",
+
+  "item.minecher.silver_wolf_medallion.tooltip.shift": "Press Right Click to detect any nearby monsters",
+  "item.minecher.silver_wolf_medallion.tooltip": "Press §eSHIFT§r for more information"
 }

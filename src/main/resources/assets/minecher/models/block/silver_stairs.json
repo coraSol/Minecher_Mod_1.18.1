@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "minecher:block/block_of_silver",
+    "top": "minecher:block/block_of_silver",
+    "side": "minecher:block/block_of_silver"
+  }
+}

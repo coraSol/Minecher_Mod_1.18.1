@@ -1,0 +1,6 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "texture": "minecher:block/block_of_silver"
+  }
+}

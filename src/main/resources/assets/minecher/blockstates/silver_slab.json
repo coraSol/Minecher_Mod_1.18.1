@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecher:block/silver_slab"
+    },
+    "type=double": {
+      "model": "minecher:block/block_of_silver"
+    },
+    "type=top": {
+      "model": "minecher:block/silver_slab_top"
+    }
+  }
+}
